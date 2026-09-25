@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Rakib Hasan (@rakib045)
-- 👀 I’m interested in Data Visualization and Analytics, Data Science, Software Design & Development, ML
 - 🌱 I love to code, learn new things
 - 💞️ I’m looking to collaborate on new type of data visualization
 - 📫 Reach Me @ rakib045@gmail.com (+1-306-850-7481)
